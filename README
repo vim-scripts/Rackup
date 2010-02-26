@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2994
+
+It defines rackup files (*.ru) and turns on Ruby syntax highlighting on these files. Added "use" and "run" as keywords.
+
+It also works nicely with tComment ( vimscript #1173 )
+
+inspired by the Gemfile syntax file by ujihisa ( vimscript #2912 )
+
+
